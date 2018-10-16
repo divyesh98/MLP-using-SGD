@@ -1,0 +1,8 @@
+For Batch Gradient Descent Algorithm
+
+The graph is plotted between the sum of the errors of the neuron layers and the epoch values(and not the avegrage error and epoch values)
+
+Although the weight vector is updated using the average value.
+
+The output error that is shown is also the weighted sum of the error of the neuron and not the average of the neuron. The average can be easily calculated by dividing
+the weighted sum of the neurons by the number of output or the hidden neuron, which is dynamic here.
